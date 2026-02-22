@@ -4,6 +4,7 @@ Like any good dork, I have a slew of Linux servers running around my house.
 
 `server-check` is a C++ CLI application that connects to a list of hosts via SSH to fetch and display system metrics (CPU type, RAM, Disk, CPU utilization) on a continuously updating `ncurses` terminal UI.
 
+![Dashboard](dashboard.png)
 ## Dependencies
 
 To build and run this application, you will need the following dependencies installed on your system:
